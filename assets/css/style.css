@@ -1,0 +1,138 @@
+
+.group{
+width: 100%;
+height: 300px;
+}
+
+.register{
+    background-color: #000139;
+}
+
+.jumbotron{
+    background-color: #d59f38 !important;
+    margin-top: 5%;
+    color: white;
+}
+
+.mybtn{
+    background: #000139 !important;
+    margin: auto !important;
+    border: 0px !important;
+    width: 20% !important;
+    margin-top: 5% !important;
+}
+
+h1{
+    margin: auto;
+    width: 50%;
+    color: #fff;
+}
+
+.ml2 {
+    font-weight: 900;
+    font-size: 1.5em;
+    margin-top: 5%;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  .introtext{
+      color: #fff;
+      text-align: left !important;
+  }
+
+  .intro{
+      margin-top: 5%;
+      text-align: left;
+    }
+
+
+ .myimg{
+     max-width: 100%;
+     height: 100%;
+ }
+
+ .mymargins{
+     padding-right: 5%;
+     padding-left: 5%;
+     margin-top: 5%;
+ }
+
+ .mymargins2{
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 3%
+}
+
+ .cta{
+     background-color: #d59f38 ;
+     border: 0px;
+     width: 20%;
+
+     
+ }
+
+ .groupsbttn{
+     background-color: transparent;
+     border: 2px #d59f38 solid ;
+     width: 20%;
+ }
+
+ .groupsbttn:hover{
+     background-color: #d59f38;
+     border-color: transparent;
+ }
+
+ .myhome{
+    background-color: #000139;
+    height: 100%;
+    color: #fff;
+ }
+
+ .mybttns{
+     margin-top: 3%;
+ }
+ .centerdiv{
+     margin: auto;
+     width: 50%;
+     margin-top: 5%;
+ }
+
+ .btn-primary{
+     width: 100% !important;
+     margin-bottom: 4%;
+ }
+
+ .card-text{
+     color: #000 !important;
+     font:20px;
+ }
+
+ .card-title{
+    color: #000 !important;
+
+ }
+
+ .myprods{
+     margin-top: 5%;
+ }
+
+ .profileimage{
+     width: 50%;
+     margin: auto;
+     border-radius: 50%;
+ }
+ me2{
+    background-image: url('assets/img/home1.svg');
+    height: 100%;
+    
+}
+.about{
+    color: #000;
+}
+ 
+ 
